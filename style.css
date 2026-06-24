@@ -58,3 +58,21 @@ footer {
     text-align: center;
     padding: 15px;
 }
+
+.download-btn {
+display: inline-block;
+margin-top: 30px;
+padding: 20px 50px;
+font-size: 28px;
+font-weight: bold;
+text-decoration: none;
+color: white;
+background: #3b2412;
+border-radius: 15px;
+transition: transform 0.2s;
+}
+
+.download-btn:hover {
+transform: scale(1.08);
+}
+
